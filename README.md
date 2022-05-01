@@ -5,9 +5,12 @@
 ### Analysis of Outcomes Based on Launch Date
 A pivot table was used to create a line chart that shows the information of the theatre kickstarter data based on number of successful, failed and canceled projects.
 The chart shows this data based on the month each project was launched.
+![image](https://user-images.githubusercontent.com/103762229/166162187-3d453197-ec95-42fa-9429-f0654388727f.png)
  
 ### Analysis of Outcomes Based on Goals
 After reviewing the kickstarter data and visualizing it on a line chart we can find opportunities that will allow for successful theater campaigns. Based on the charts created for the data provided, it seems to be that a successful theater project would be better launched at the beginning of April through August. Pledges and participation towards reaching the set goal decline during these months, the lowest being in September. September through March participation is extremely low in comparison to the rest of the months and therefore, launching projects during this time seems imprudent because of low participation and low funding. 
+![image](https://user-images.githubusercontent.com/103762229/166162203-dd1f6a22-c655-4679-a47d-f4710fa4cc3b.png)
+
 ### Challenges and Difficulties Encountered
 Based on the data, there are a number of other factors that could potentially affect the outcomes of successful, failed and canceled play projects and this data is solely based on goals and pledged amounts. Although this is something to keep in mind and possibly something we could potentially gather more data on during a different research opportunity, this kickstarter data provides some guidance for Louise to have an idea of when she should begin a new project and what a reasonable and attainable goal could be.
 ## Results
